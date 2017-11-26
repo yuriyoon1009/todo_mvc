@@ -1,0 +1,27 @@
+.wrapper {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}	
+
+#todolist {
+    text-align: center;
+}
+
+#input-list{
+    font-size: 50px;
+    border: none;
+    width: 510px;
+}
+
+#list {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+li:hover {
+    text-decoration: line-through;
+}
